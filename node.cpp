@@ -97,5 +97,5 @@ Person_Node::get_hospital(){
     }else if(place=="F"){
         hospital=4;
     }
-    return hospital;
+    return hospital;//dasdjdajdasoi
 }
